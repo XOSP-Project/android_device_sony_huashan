@@ -14,8 +14,6 @@
 # limitations under the License.
 #
 
-# Inherit common CM stuff
-$(call inherit-product, vendor/xosp/config/common_full_phone.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/sony/huashan/device.mk)
