@@ -21,6 +21,7 @@ set -e
 # Required!
 export DEVICE=huashan
 export VENDOR=sony
+export INITIAL_COPYRIGHT_YEAR=2014
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
