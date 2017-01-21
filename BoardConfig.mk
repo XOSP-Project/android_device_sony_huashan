@@ -20,6 +20,9 @@ DEVICE_PATH := device/sony/huashan
 # Board device headers
 TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 
+#We have QCOM_FM on msm8960t
+BOARD_HAVE_QCOM_FM := true
+
 # Board device elements
 include $(DEVICE_PATH)/PlatformConfig.mk
 include $(DEVICE_PATH)/board/*.mk
