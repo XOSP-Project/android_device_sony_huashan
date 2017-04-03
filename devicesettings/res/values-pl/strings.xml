@@ -13,13 +13,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ambient_display_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
-  <string name="hand_wave_gesture_title">Mahanje z roko</string>
-  <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
-  <string name="pocket_gesture_title">Žep</string>
-  <string name="pocket_gesture_summary">Utripaj obvestila ob izvlečenju iz žepa</string>
-  <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
-  <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+  <string name="ambient_display_title">Aktywny wyświetlacz</string>
+  <string name="ambient_display_enable_title">Aktywny wyświetlacz</string>
+  <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
+  <string name="hand_wave_gesture_title">Machnij ręką</string>
+  <string name="hand_wave_gesture_summary">Pulsujące powiadomienia po machnięciu ręką</string>
+  <string name="pocket_gesture_title">Kieszeń</string>
+  <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
+  <string name="proximity_wake_enable_title">Wybudzenie czujnikiem zbliżeniowym</string>
+  <string name="proximity_wake_enable_summary">Wybudź urządzenie machnięciem ręką</string>
 </resources>

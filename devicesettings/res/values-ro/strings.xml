@@ -13,13 +13,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ambient_display_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
-  <string name="hand_wave_gesture_title">Mahanje z roko</string>
-  <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
-  <string name="pocket_gesture_title">Žep</string>
-  <string name="pocket_gesture_summary">Utripaj obvestila ob izvlečenju iz žepa</string>
-  <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
-  <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+  <string name="ambient_display_title">Afișare ambientală</string>
+  <string name="ambient_display_enable_title">Afișare ambientală</string>
+  <string name="ambient_display_enable_summary">Trezește ecran când primiți notificări</string>
+  <string name="hand_wave_gesture_title">Unduire mână</string>
+  <string name="pocket_gesture_title">Buzunar</string>
+  <string name="pocket_gesture_summary">Puls notificări privind eliminarea din buzunar</string>
+  <string name="proximity_wake_enable_title">Trezire prin proximitate</string>
+  <string name="proximity_wake_enable_summary">Trezire dispozitiv la unduirea mâinii</string>
 </resources>

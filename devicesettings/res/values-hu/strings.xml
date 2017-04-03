@@ -13,13 +13,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ambient_display_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
-  <string name="hand_wave_gesture_title">Mahanje z roko</string>
-  <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
-  <string name="pocket_gesture_title">Žep</string>
-  <string name="pocket_gesture_summary">Utripaj obvestila ob izvlečenju iz žepa</string>
-  <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
-  <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+  <string name="ambient_display_title">Környezeti kijelző</string>
+  <string name="ambient_display_enable_title">Környezeti kijelző</string>
+  <string name="ambient_display_enable_summary">Képernyő ébresztése értesítések fogadásakor</string>
+  <string name="hand_wave_gesture_title">Lebegő simítás</string>
+  <string name="hand_wave_gesture_summary">Értesítések pulzálása lebegő simításnál</string>
+  <string name="pocket_gesture_title">Zseb</string>
+  <string name="pocket_gesture_summary">Értesítések pulzálása zsebből való kivétel után</string>
+  <string name="proximity_wake_enable_title">Közelség ébresztés</string>
+  <string name="proximity_wake_enable_summary">Készülék ébresztése lebegő simításra</string>
 </resources>

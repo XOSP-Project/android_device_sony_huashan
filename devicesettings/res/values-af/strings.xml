@@ -13,13 +13,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ambient_display_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
-  <string name="hand_wave_gesture_title">Mahanje z roko</string>
-  <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
-  <string name="pocket_gesture_title">Žep</string>
-  <string name="pocket_gesture_summary">Utripaj obvestila ob izvlečenju iz žepa</string>
-  <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
-  <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+  <string name="ambient_display_title">Omgewings skerm</string>
+  <string name="ambient_display_enable_title">Omgewings skerm</string>
+  <string name="ambient_display_enable_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
+  <string name="hand_wave_gesture_title">Handgebaar</string>
+  <string name="hand_wave_gesture_summary">Pols kennisgewings op die handgebaar</string>
+  <string name="pocket_gesture_title">Sak</string>
+  <string name="pocket_gesture_summary">Pols kennisgewings wanneer jy toestel uit jou sak haal</string>
+  <string name="proximity_wake_enable_title">Nabyheid wakker word</string>
+  <string name="proximity_wake_enable_summary">Maak toestel wakker met waai van hand</string>
 </resources>

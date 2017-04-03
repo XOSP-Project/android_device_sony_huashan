@@ -13,13 +13,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ambient_display_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_title">Okoliški zaslon</string>
-  <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
-  <string name="hand_wave_gesture_title">Mahanje z roko</string>
-  <string name="hand_wave_gesture_summary">Utripaj obvestila ob mahanju z roko</string>
-  <string name="pocket_gesture_title">Žep</string>
-  <string name="pocket_gesture_summary">Utripaj obvestila ob izvlečenju iz žepa</string>
-  <string name="proximity_wake_enable_title">Bujenje ob bližini</string>
-  <string name="proximity_wake_enable_summary">Zbudi napravo ob mahanju z roko</string>
+  <string name="ambient_display_title">Inaktivitetsvisning</string>
+  <string name="ambient_display_enable_title">Inaktivitetsvisning</string>
+  <string name="ambient_display_enable_summary">Tænder skærmen, når du modtager notifikationer</string>
+  <string name="hand_wave_gesture_title">Vink med hånden</string>
+  <string name="hand_wave_gesture_summary">Vibrér, hvis der er notifikationer, når du vinker over skærmen</string>
+  <string name="pocket_gesture_title">Lomme</string>
+  <string name="pocket_gesture_summary">Vibrér, hvis der er notifikationer, når telefonen tages op ad lommen</string>
+  <string name="proximity_wake_enable_title">Berøringsfri vækning</string>
+  <string name="proximity_wake_enable_summary">Vækker enheden ved at vinke</string>
 </resources>
