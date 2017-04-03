@@ -17,16 +17,15 @@
 package com.cyanogenmod.settings.device;
 
 import android.os.Bundle;
+import android.preference.PreferenceActivity;
 
-import com.android.settingslib.drawer.SettingsDrawerActivity;
-
-public class TouchscreenGesturePreferenceActivity extends SettingsDrawerActivity {
+public class TouchscreenGesturePreferenceActivity extends PreferenceActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getFragmentManager().beginTransaction()
-                .replace(R.id.content_frame, new TouchscreenGesturePreferenceFragment())
+                .replace(android.R.id.content, new TouchscreenGesturePreferenceFragment())
                 .commit();
     }
 }
