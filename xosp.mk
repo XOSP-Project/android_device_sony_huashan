@@ -1,6 +1,5 @@
 #
 # Copyright (C) 2013-2016 The CyanogenMod Project
-#           (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,11 +14,15 @@
 # limitations under the License.
 #
 
-# Inherit common Lineage stuff
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/sony/huashan/device.mk)
+
+# Inherit XOSP common Phone stuff.
+$(call inherit-product, vendor/xosp/config/common_full_phone.mk)
+
+# Inherit some proprietary XOSP stuff.
+$(call inherit-product, vendor/xosp/config/xosp.mk)
 
 # Device display
 TARGET_SCREEN_HEIGHT := 1280
@@ -27,7 +30,7 @@ TARGET_SCREEN_WIDTH := 720
 
 # Device identifications
 PRODUCT_DEVICE := huashan
-PRODUCT_NAME := lineage_huashan
+PRODUCT_NAME := xosp_huashan
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := Xperia SP
