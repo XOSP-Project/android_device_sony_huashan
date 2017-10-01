@@ -1,0 +1,44 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_sony_msm8960t",
+    "target_path": "kernel/sony/msm8960t",
+	"revision": "cm-14.1",
+    "remote": "XOSPD"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  },
+  {
+	"repository": "LineageOS/android_device_sony_common",
+	"target_path": "device/sony/common",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  },
+  {
+	"repository": "LineageOS/android_external_stlport",
+	"target_path": "external/stlport",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  },
+  {
+	"repository": "LineageOS/android_hardware_sony_DASH",
+	"target_path": "hardware/sony/DASH",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  },
+  {
+	"repository": "LineageOS/android_hardware_sony_thermanager",
+	"target_path": "hardware/sony/thermanager",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  },
+  {
+	"repository": "LineageOS/android_hardware_qcom_gps",
+	"target_path": "hardware/qcom/opensource/location",
+	"revision": "cm-14.1",
+	"remote": "XOSPD"
+  }
+]
